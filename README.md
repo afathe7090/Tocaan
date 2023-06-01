@@ -15,7 +15,7 @@
        This Digram understanding reliability in project 
 ![Tocaan](https://github.com/afathe7090/Tocaan/assets/76500072/b2452520-f7b3-48c7-8b0c-43dcd94ce088)
 
-# Screens
+# Screens (SwiftUI & UIKit)
 
 |     UIKit     |    SwiftUI    |
 | ------------- | ------------- |
